@@ -2,7 +2,7 @@
 
 一个在 Windows 上运行的简单工具：监听剪贴板中新的游戏文本，根据字数估算阅读时间，在等待区间结束后自动对当前鼠标位置执行一次点击（左 / 右键可选），帮助“无脑快进 / 解放回车键 / 避免手动狂点”。
 
-> 推荐搭配 [MisakaHookFinder](https://github.com/Nitrblaze/MisakaHookFinder) 等文本提取(Hook)工具一起使用：
+> 推荐搭配 [MisakaHookFinder](https://github.com/hanmin0822/MisakaHookFinder) 等文本提取(Hook)工具一起使用：
 > MisakaHookFinder 抓取游戏文本 -> 复制/合并到剪贴板 -> 本工具检测到文本长度计算延迟 -> 自动点击继续剧情。
 
 ---
@@ -121,3 +121,4 @@ galgame_reader_logs/   # 日志输出目录（勾选后生成）
 ---
 
 祝使用愉快，搭配 MisakaHookFinder 畅读 Galgame！
+
